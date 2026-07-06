@@ -1,16 +1,29 @@
-## Hi there 👋
+# 📡 Mihai | Tech & Security Enthusiast
 
-<!--
-**mihaicirlugea/mihaicirlugea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+[SYSTEM STATUS: LEARNING & BUILDING]
+🔭 I’m currently working on: Configuring a Home Gateway (AdBlocker & Firewall) 🛠️
 
-Here are some ideas to get you started:
+🌱 I’m currently learning: Networking protocols, Cyber Security fundamentals, and Linux CLI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun fact: I prefer a Thin Client over a Raspberry Pi for home labs — more power, less cost.
+
+🧰 Tech Stack & Learning Path
+🌐 Networking: TCP/IP, Routing, Subnetting (In Progress)
+
+🛡️ CyberSec: Firewalls, Packet Analysis, Network Defense
+
+🔌 Embedded: Linux CLI, Hardware Interfacing, C
+
+💻 Coding: Python, Git VCS
+
+🏅 Verified Badges & Certifications
+My digital credentials from Cisco, TryHackMe, and GitHub Skills will be displayed here.
+
+⏳ [Cisco] Networking Basics — Learning
+
+⏳ [GitHub] Introduction to GitHub — Completed
+
+⏳ [TryHackMe] Pre-Security Path — Next up
+
+"If you don't know how to defend the network, you don't know how to build the system."
